@@ -24,7 +24,7 @@
     "@react-navigation/stack": "^5.14.4",
     "react": "16.13.1",
     "react-error-boundary": "^3.1.1",
-    "react-native": "0.63.4",
+    "react-native": "0.64.1",
     "react-native-bootsplash": "^3.1.5",
     "react-native-gesture-handler": "^1.10.3",
     "react-native-get-random-values": "^1.6.0",
